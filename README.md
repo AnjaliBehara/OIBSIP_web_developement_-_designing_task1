@@ -12,3 +12,4 @@ Clean and modern UI
 HTML
 CSS
 ## output Screenshot
+[Landing page output](screenshot.png)
